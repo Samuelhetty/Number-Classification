@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-)3no)wvh=b_8vq_9cg_4s+fzl+7=df3#o!i+x8_l8#y^3l-ea4
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','https://number-classification-7q0m.onrender.com']
+ALLOWED_HOSTS = ['127.0.0.1','https://number-classification-task.onrender.com']
 
 
 # Application definition
